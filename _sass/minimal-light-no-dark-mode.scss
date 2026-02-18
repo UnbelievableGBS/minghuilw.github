@@ -234,7 +234,47 @@ a:hover small {
 
 .wrapper {
   width:960px;
-  margin:0 auto;
+  margin:4.8rem auto 0;
+}
+
+.top-navbar {
+  position:fixed;
+  top:0.9rem;
+  left:50%;
+  transform:translateX(-50%);
+  width:min(960px, calc(100vw - 30px));
+  padding:0.45rem 0.5rem 0.55rem;
+  border:1px solid #d7dfe8;
+  border-radius:16px;
+  background:rgba(255, 255, 255, 0.95);
+  box-shadow:0 6px 18px rgba(4, 51, 97, 0.08);
+  backdrop-filter:blur(8px);
+  display:flex;
+  flex-wrap:wrap;
+  gap:0.4rem 0.55rem;
+  z-index:1000;
+}
+
+.top-navbar a {
+  display:inline-block;
+  color:#043361;
+  border:1px solid #d7dfe8;
+  border-radius:999px;
+  padding:0.22rem 0.62rem;
+  font-size:0.76rem;
+  letter-spacing:0.01em;
+  line-height:1.2;
+}
+
+.top-navbar a:hover {
+  color:#043361;
+  border-color:#8eb4d1;
+  background-color:#eef5fb;
+}
+
+section h2,
+section h3 {
+  scroll-margin-top:5.6rem;
 }
 
 blockquote {
@@ -380,6 +420,19 @@ footer {
 }
 
 @media print, screen and (max-width: 960px) {
+  .top-navbar {
+    top:0.55rem;
+    width:calc(100vw - 30px);
+    padding:0.35rem 0.4rem 0.45rem;
+    gap:0.3rem 0.4rem;
+    flex-wrap:nowrap;
+    overflow-x:auto;
+    -webkit-overflow-scrolling:touch;
+  }
+
+  .top-navbar a {
+    flex:0 0 auto;
+  }
 
   .pub-row {
   display: flex; 
@@ -387,7 +440,7 @@ footer {
 
   div.wrapper {
     width:auto;
-    margin:0;
+    margin:4.5rem 0 0;
   }
 
 
@@ -458,6 +511,9 @@ footer {
 }
 
 @media print, screen and (max-width: 480px) {
+  .top-navbar a {
+    font-size:0.7rem;
+  }
 
   .pub-row {
     display: block; 
@@ -491,6 +547,14 @@ footer {
 }
 
 @media print {
+  .top-navbar {
+    display:none;
+  }
+
+  .wrapper {
+    margin:0 auto;
+  }
+
   body {
     padding:0.4in;
     font-size:12pt;
