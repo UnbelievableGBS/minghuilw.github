@@ -2,22 +2,40 @@
 layout: homepage
 ---
 
-## About Me
+## About
 
-I am a Ph.D. student at ...
+I am **Minghui Liwang (李王明卉)**, an Associate Professor at the School of Electronics and Information Engineering, Tongji University, and a member of the Shanghai Research Institute for Intelligent Autonomous Systems.
+
+My research focuses on **services computing**, **multi-agent systems**, **distributed machine learning**, and **edge intelligence for Internet of Vehicles (IoV)**. I develop decision and optimization methods that bridge theoretical rigor and practical deployment constraints in dynamic networked systems.
+
+I have published 80+ SCI journal and international conference papers, with 50+ papers as first or corresponding author.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- Services computing and resource trading over cloud-edge-end architectures
+- Multi-agent collaboration and robust online optimization
+- Hierarchical and distributed federated learning under intermittent participation
+- Cross-disciplinary intelligence systems for industrial and vehicular scenarios
+
+{% include experience.md %}
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+{% include news.md %}
 
-{% include_relative _includes/publications.md %}
+For a complete and continuously updated list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=F1EU-swAAAAJ&hl=en&oi=ao).
 
-{% include_relative _includes/services.md %}
+{% include publications.md %}
+
+{% include projects.md %}
+
+{% include services.md %}
+
+{% include teaching.md %}
+
+## Contact
+
+- Email: [minghuiliwang@tongji.edu.cn](mailto:minghuiliwang@tongji.edu.cn)
+- Address: Room 1013, Building 4, Shanghai Research Institute for Intelligent Autonomous Systems, Tongji University
+- Google Scholar: [Profile Link](https://scholar.google.com/citations?user=F1EU-swAAAAJ&hl=en&oi=ao)
+- CV: [DOCX](assets/files/Minghui_Liwang_CV_CN.docx) | [Markdown](assets/files/Minghui_Liwang_CV_CN.md)

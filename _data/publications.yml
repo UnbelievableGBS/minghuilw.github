@@ -1,22 +1,168 @@
 main:
+  - title: "Long-Term or Temporary? Hybrid Worker Recruitment for Mobile Crowd Sensing and Computing"
+    authors: "M. Liwang, Z. Gao, et al."
+    conference_short: "IEEE TMC"
+    conference: "IEEE Transactions on Mobile Computing, 2025."
+    year: 2025
+    notes: "First Author"
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Towards Seamless Hierarchical Federated Learning under Intermittent Client Participation"
+    authors: "M. Wu, M. Liwang*, et al."
+    conference_short: "IEEE TMC"
+    conference: "IEEE Transactions on Mobile Computing, 2025."
+    year: 2025
+    notes: "Corresponding Author"
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Accelerating Stable Matching between Workers and Spatial-Temporal Tasks for Dynamic MCS"
+    authors: "H. Qi, M. Liwang*, et al."
+    conference_short: "IEEE TMC"
+    conference: "IEEE Transactions on Mobile Computing, 2025."
+    year: 2025
+    notes: "Corresponding Author"
+
+  - title: "Future Resource Bank for ISAC"
+    authors: "H. Qi, M. Liwang*, et al."
+    conference_short: "IEEE JSAC"
+    conference: "IEEE Journal on Selected Areas in Communications, 2025."
+    year: 2025
+    notes: "Corresponding Author"
+
+  - title: "Effective Two-Stage Double Auction for Dynamic Resource Provision over Edge Networks"
+    authors: "S. Wu, M. Liwang*, et al."
+    conference_short: "IEEE TSC"
+    conference: "IEEE Transactions on Services Computing, 2025."
+    year: 2025
+    notes: "Corresponding Author"
+
+  - title: "Adaptive UAV-Assisted Hierarchical Federated Learning"
+    authors: "X. Yang, M. Liwang*, et al."
+    conference_short: "IEEE TSC"
+    conference: "IEEE Transactions on Services Computing, 2025."
+    year: 2025
+    notes: "Corresponding Author"
+
+  - title: "Privacy-Aware Joint DNN Model Deployment and Partitioning Optimization"
+    authors: "Z. Cheng, H. Wang, M. Liwang*, et al."
+    conference_short: "IEEE TSC"
+    conference: "IEEE Transactions on Services Computing, 2025."
+    year: 2025
+    notes: "Corresponding Author"
+
+  - title: "Seamless Graph Task Scheduling over Dynamic Vehicular Clouds"
+    authors: "B. Guo, M. Liwang*, et al."
+    conference_short: "IEEE TSC"
+    conference: "IEEE Transactions on Services Computing, 2025."
+    year: 2025
+    notes: "Corresponding Author"
+
+  - title: "Game-Theoretic Safe Multi-Agent Motion Planning"
+    authors: "W. Mai, M. Liwang*, et al."
+    conference_short: "IEEE TII"
+    conference: "IEEE Transactions on Industrial Informatics, 2025."
+    year: 2025
+    notes: "Corresponding Author"
+
+  - title: "A Teaching Quality Evaluation Framework for Blended Classroom Modes"
+    authors: "Y. Zhou, S. Zou, M. Liwang*, et al."
+    conference_short: "ESWA"
+    conference: "Expert Systems with Applications, 2025."
+    year: 2025
+    notes: "Corresponding Author"
+
+  - title: "Bridge the Present and Future: A Cross-Layer Matching Game in Dynamic Cloud-Aided Mobile Edge Networks"
+    authors: "H. Qi, M. Liwang*, et al."
+    conference_short: "IEEE TMC"
+    conference: "IEEE Transactions on Mobile Computing, 2024."
+    year: 2024
+    notes: "Corresponding Author"
+
+  - title: "Matching-Based Hybrid Service Trading for Task Assignment Over Dynamic Mobile Crowdsensing Networks"
+    authors: "H. Qi, M. Liwang*, et al."
+    conference_short: "IEEE TSC"
+    conference: "IEEE Transactions on Services Computing, 2024."
+    year: 2024
+    notes: "Corresponding Author"
+
+  - title: "Accelerating the Delivery of Data Services over Uncertain Mobile Crowdsensing Networks"
+    authors: "M. Liwang, Z. Cheng, et al."
+    conference_short: "IEEE WC"
+    conference: "IEEE Wireless Communications, 2024."
+    year: 2024
+    notes: "First Author"
+
+  - title: "Toward Intelligent and Adaptive Task Scheduling for 6G"
+    authors: "Q. Wang, S. Zou, M. Liwang*, et al."
+    conference_short: "IEEE TCCN"
+    conference: "IEEE Transactions on Cognitive Communications and Networking, 2024."
+    year: 2024
+    notes: "Corresponding Author"
+
+  - title: "Oh-Trust: Overbooking and Hybrid Trading-Empowered Resource Scheduling"
+    authors: "H. Qi, M. Liwang*, et al."
+    conference_short: "IEEE TETC"
+    conference: "IEEE Transactions on Emerging Topics in Computing, 2024."
+    year: 2024
+    notes: "Corresponding Author"
+
+  - title: "Graph-Represented Computation-Intensive Task Scheduling Over Air-Ground Integrated Vehicular Networks"
+    authors: "M. Liwang, Z. Gao, et al."
+    conference_short: "IEEE TSC"
+    conference: "IEEE Transactions on Services Computing, 2023."
+    year: 2023
+    notes: "First Author"
+
+  - title: "CHEESE: Distributed Clustering-Based Hybrid Federated Split Learning Over Edge Networks"
+    authors: "Z. Cheng, X. Xia, M. Liwang*, et al."
+    conference_short: "IEEE TPDS"
+    conference: "IEEE Transactions on Parallel and Distributed Systems, 2023."
+    year: 2023
+    notes: "Corresponding Author"
+
+  - title: "Toward Optimal Deployment of UAV Relays in UAV-Assisted IoV Networks"
+    authors: "Y. Su, M. Liwang*, et al."
+    conference_short: "IEEE TVT"
+    conference: "IEEE Transactions on Vehicular Technology, 2023."
+    year: 2023
+    notes: "Corresponding Author"
+
+  - title: "Joint Power Control and Time Allocation for UAV-Assisted IoV Networks"
+    authors: "Y. Su, L. Huang, M. Liwang*"
+    conference_short: "IEEE IoTJ"
+    conference: "IEEE Internet of Things Journal, 2023."
+    year: 2023
+    notes: "Corresponding Author"
+
+  - title: "Resource Trading in Edge Computing-Enabled IoV: An Efficient Futures-Based Approach"
+    authors: "M. Liwang, R. Chen, X. Wang"
+    conference_short: "IEEE TSC"
+    conference: "IEEE Transactions on Services Computing, 2022."
+    year: 2022
+    notes: "First Author"
+
+  - title: "Unifying Futures and Spot Market: Overbooking and Real-Time Trading in Edge Networks"
+    authors: "M. Liwang, R. Chen, X. Wang, X. Shen"
+    conference_short: "IEEE TWC"
+    conference: "IEEE Transactions on Wireless Communications, 2022."
+    year: 2022
+    notes: "First Author"
+
+  - title: "Overbooking-Empowered Computing Resource Provisioning in Edge Networks"
+    authors: "M. Liwang, X. Wang"
+    conference_short: "IEEE/ACM TON"
+    conference: "IEEE/ACM Transactions on Networking, 2022."
+    year: 2022
+    notes: "First Author"
+
+  - title: "A Truthful Auction for Graph Job Allocation in Vehicular Cloud-Assisted Networks"
+    authors: "Z. Gao, M. Liwang*, et al."
+    conference_short: "IEEE TMC"
+    conference: "IEEE Transactions on Mobile Computing, 2022."
+    year: 2022
+    notes: "Corresponding Author"
+
+  - title: "A Futures-Enabled Fast Resource Trading Mechanism in Edge Computing-Assisted UAV Networks"
+    authors: "M. Liwang, Z. Gao, X. Wang"
+    conference_short: "IEEE JSAC"
+    conference: "IEEE Journal on Selected Areas in Communications, 2021."
+    year: 2021
+    notes: "First Author"
