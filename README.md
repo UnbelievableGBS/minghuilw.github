@@ -1,6 +1,6 @@
 # Minghui Liwang Academic Homepage
 
-基于 Jekyll 的个人学术主页项目，当前用于维护 `https://minghuilw.github.io/`。
+基于 Jekyll 的个人学术主页项目，当前用于维护 `https://abbylliwang.github.io/`。
 
 ## 1. 项目简介
 
